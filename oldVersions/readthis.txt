@@ -1,0 +1,1 @@
+Any version must be renamed to Chess.java before it can be compiled correctly.
